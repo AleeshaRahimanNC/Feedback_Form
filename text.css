@@ -1,0 +1,23 @@
+h1 {
+    text-align: left;
+    font-family: serif;
+    color: powderblue;
+}
+
+legend{
+    color: wheat;
+}
+
+.Names{
+    color: yellow;
+}
+th{
+    background-color: black;
+}
+td{
+    background-color: gray;
+}
+
+#button {
+    color: green;
+}

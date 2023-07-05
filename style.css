@@ -1,0 +1,39 @@
+body{
+    background-image: url("feedback\ form.webp");
+    background-size: cover;
+    text-align: left;
+    color: white;
+    
+    
+ }
+ 
+ table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    color: white;
+  }
+  td, th {
+    border: 2px solid whitesmoke;
+    text-align: left;
+    padding: 5px;
+    
+  } 
+  input {
+   background-color: lightgrey;
+   opacity: 75%;
+  }
+  textarea {
+   background-color: lightgrey;
+   opacity: 75%;
+  }
+ a {
+    color: blue;
+ }
+.info{
+    color: white;
+}
+button:hover{
+   border: 3px  solid red;
+
+}
